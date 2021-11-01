@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edamino
+- 👋 Hi, I’m @edamino which is the compressed version of Eddy Aminode.
 - 👀 I’m interested in Mobile and Web Development
 - 🌱 I’m currently learning Blockchain and Machine Learning
 - 💞️ I’m looking to collaborate on Mobile & Web Development projects
